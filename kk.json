@@ -1,0 +1,26 @@
+{
+  "msg": "成功",
+  "statusCode": "200",
+  "result": {
+    "id": 61721,
+    "hashId": "c419b63744de9d27",
+    "compName": "SIVARAJAN",
+    "contName": "SIVA RAJAN",
+    "compTel": null,
+    "compEmail": null,
+    "productName": "COPPER SCRAP",
+    "productCategory": "Wire scraps",
+    "productCount": 1,
+    "quantityUnit": "Tons (US)",
+    "shipmentCondition": "EXPRESS_DELIVERY",
+    "paymentMethod": "COD",
+    "favoriteCount": 0,
+    "offerCount": 0,
+    "createdAt": "2019-07-07T08:00:00.000+0800",
+    "updatedAt": "2019-09-10T00:26:00.000+0800",
+    "compAddr": "印度",
+    "contentDesc": "SIVAM&CO(copper wire scrap)\n.SIVARAJAN\n5/1-32,errattai pulliyamarrathur, marriamman kovil street,\nraman nagar( post),salem main road\nmettur dam,tamil nadu,india-636 403\nphone no;914298 230332,cell no;919600812431",
+    "imageUrl": "[https://demands.oss-cn-shanghai.aliyuncs.com/demands/2019-07-07/7.7-160 copper scrap - Copy (1).jpg,https://demands.oss-cn-shanghai.aliyuncs.com/demands/2019-07-07/7.7-160 copper scrap - Copy (2).jpg,https://demands.oss-cn-shanghai.aliyuncs.com/demands/2019-07-07/7.7-160 copper scrap - Copy (3).jpg,https://demands.oss-cn-shanghai.aliyuncs.com/demands/2019-07-07/7.7-160 copper scrap - Copy.jpg,https://demands.oss-cn-shanghai.aliyuncs.com/demands/2019-07-07/7.7-160 copper scrap.jpg]",
+    "favorites": []
+  }
+}
